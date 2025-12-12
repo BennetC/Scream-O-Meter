@@ -3,10 +3,6 @@ import tensorflow as tf
 import tensorflow_hub as hub
 import csv
 
-# Import your Step 1 class
-from filters import AudioPreprocessor
-
-
 class ScreamDetector:
     def __init__(self, sensitivity=0.4):
         """

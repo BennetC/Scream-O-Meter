@@ -1,0 +1,4 @@
+tensorflow
+tensorflow-hub
+numpy~=2.3.4
+scipy~=1.16.3
